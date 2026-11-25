@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:6366f1,100:8b5cf6&height=230&section=header&text=Gerrit%20Ezra%20Yudi%20Kairupan&fontSize=46&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20%26%20Digital%20Product%20Specialist%20%C2%B7%20Certified%20Associate%20Data%20Scientist%20%28BNSP%29&descSize=17&descAlignY=58" width="100%" alt="Gerrit Ezra Yudi Kairupan"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:6366f1,100:8b5cf6&height=230&section=header&text=Gerrit%20Ezra%20Yudi%20Kairupan&fontSize=46&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20and%20Digital%20Product%20Specialist%20%C2%B7%20Certified%20Associate%20Data%20Scientist%20%28BNSP%29&descSize=17&descAlignY=58" width="100%" alt="Gerrit Ezra Yudi Kairupan"/>
 
 <a href="https://gerritezra.my.id">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Core+developer+of+SIPro+%40+Kementerian+PU;Turning+public-sector+data+into+decisions;Data+Science+%C2%B7+Product+Management+%C2%B7+MLOps;Professional+Engineer+candidate+%40+Universitas+Indonesia;From+problem+framing+to+shipped+product" alt="Typing intro"/>
