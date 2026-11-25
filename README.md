@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:6366f1,100:8b5cf6&height=230&section=header&text=Gerrit%20Ezra%20Yudi%20Kairupan&fontSize=46&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20and%20Digital%20Product%20Specialist%20%C2%B7%20Certified%20Associate%20Data%20Scientist%20%28BNSP%29&descSize=17&descAlignY=58" width="100%" alt="Gerrit Ezra Yudi Kairupan"/>
+<a href="https://gerritezra.my.id">
+  <img src="assets/hero.svg" width="100%" alt="Gerrit Ezra Yudi Kairupan: Data and Digital Product Specialist, Certified Associate Data Scientist (BNSP)"/>
+</a>
 
 <a href="https://gerritezra.my.id">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Core+developer+of+SIPro+%40+Kementerian+PU;Turning+public-sector+data+into+decisions;Data+Science+%C2%B7+Product+Management+%C2%B7+MLOps;Professional+Engineer+candidate+%40+Universitas+Indonesia;From+problem+framing+to+shipped+product" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Turning+public-sector+data+into+decisions;From+problem+framing+to+shipped+product;Data+Science+%C2%B7+Product+Management+%C2%B7+MLOps" alt="Typing intro"/>
 </a>
 
 <p>
@@ -238,6 +240,14 @@ languages:  [Bahasa Indonesia (native), English (TOEFL iBT 87)]
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gerritezra&hide_border=true&theme=tokyonight&background=0b0f1a&ring=8b5cf6&fire=3b82f6&currStreakLabel=8b5cf6&sideLabels=3b82f6&dates=94a3b8" alt="Contribution streak"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg"/>
+    <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
+  </picture>
 </div>
 
 <div align="center">
