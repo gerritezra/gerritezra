@@ -130,9 +130,9 @@ languages:  [Bahasa Indonesia (native), English (TOEFL iBT 87)]
   <tr>
     <td width="50%" valign="top">
       <h3>🚗 Car CO₂ Emission Inspection</h3>
-      <sub><code>XGBoost</code> <code>Flask</code> <code>Heroku</code> <code>Jun 2022</code></sub>
-      <p>Decision support web app that predicts whether a car needs further CO₂ emission inspection.</p>
-      <a href="https://github.com/gerritezra/co2emision-DSS">Repository →</a> · <a href="https://github.com/gerritezra/PCEV-DSS-Group7">Team version →</a>
+      <sub><code>XGBoost</code> <code>Flask</code> <code>Gunicorn</code> <code>Jun 2022</code></sub>
+      <p>Decision support web app that predicts a car's CO₂ emissions and recommends an engine inspection above 200 g/km. XGBoost with 5-fold CV: mean RMSE 9.39 g/km.</p>
+      <a href="https://github.com/gerritezra/PCEV-DSS-Group7">Repository →</a> · <a href="https://github.com/gerritezra/co2emision-DSS">Earlier linear version →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🚘 Used Car Auction Prices</h3>
